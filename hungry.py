@@ -9,9 +9,4 @@ else:
 
         print('drink water')
         print('drink soda')
-
-<<<<<<< HEAD
-print("Thank youuuuu")
-=======
-print("Thank yuu")
->>>>>>> d270245a299babc603046ee75e952e5f049cb473
+print("Thank you')
