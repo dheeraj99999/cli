@@ -10,4 +10,4 @@ else:
         print('drink water')
         print('drink soda')
 
-print()
+print("thank uuuuuuuuuuuuuuuuuuuuuuuuuu")
